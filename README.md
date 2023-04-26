@@ -8,6 +8,11 @@ U2GO技术服务支持
 U2是伙伴是向导，更是我们自己。
 让U2带我们一起点亮生命的奇妙旅程！
 
+### 技术支持(联系我们！)
+contacts: shima.lee \n
+phone: 18256016554 \n
+mail: shima_lee@163.com \n
+
 
 ### 产品图片
 ![首页](https://static.yeeverse.top/yvshop-promotional-image/born.png)
@@ -18,7 +23,3 @@ U2是伙伴是向导，更是我们自己。
 
 
 
-### 技术支持(联系我们！)
-contacts: shima.lee
-phone: 18256016554
-mail: shima_lee@163.com
