@@ -9,9 +9,9 @@ U2是伙伴是向导，更是我们自己。
 让U2带我们一起点亮生命的奇妙旅程！
 
 ### 技术支持(联系我们！)
-contacts: shima.lee \n
-phone: 18256016554 \n
-mail: shima_lee@163.com \n
+contacts: shima.lee<br>
+phone: 18256016554<br>
+mail: shima_lee@163.com<br>
 
 
 ### 产品图片
